@@ -1,3 +1,7 @@
+//This should work this time right?
+// It did not work last time.
+
+
 // Takes care of floating point inprecision during calcualtions
 function toDP2(x) {
   return Number(Number.parseFloat(x).toFixed(2));
